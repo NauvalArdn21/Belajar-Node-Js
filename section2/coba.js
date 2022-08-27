@@ -1,0 +1,1 @@
+console.log('hi aku baru belajar node.js!')
